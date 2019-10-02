@@ -1,3 +1,4 @@
 {
- "phabricator.uri":"http://phabricator.demo.lab"
+ "phabricator.uri":"http://phabricator.demo.lab",
+ "history.immutable":false
 }
